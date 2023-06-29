@@ -96,17 +96,17 @@ const Navbar = () => {
 					</li>
 					<li>
 						<a href="#aboutMe" className="hover:text-white text-xl">
-							About
+							Research & Publications
 						</a>
 					</li>
 					<li>
 						<a href="#skills" className="hover:text-white text-xl">
-							Skills
+							Teaching
 						</a>
 					</li>
 					<li>
-						<a href="#projects" className="hover:text-white text-xl">
-							Projects
+						<a href="#links" className="hover:text-white text-xl">
+							Important Links
 						</a>
 					</li>
 					<li>
