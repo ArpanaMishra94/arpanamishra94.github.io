@@ -15,7 +15,7 @@ const Banner = () => {
 				/>
 			</div>
 			<div className="w-3/4 flex flex-col items-center md:items-start gap-2">
-				<h1 className=" text-3xl md:text-5xl font-bold text-white">
+				<h1 className=" text-2xl md:text-5xl font-bold text-white">
 					Mohit Kumar Baghel
 				</h1>
 				<h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wider">

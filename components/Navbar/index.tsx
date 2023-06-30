@@ -32,18 +32,12 @@ const Navbar = () => {
 							</a>
 						</li>
 						<li>
-							<a
-								href="#aboutMe"
-								className="hover:text-white text-xl font-medium"
-							>
+							<a href="" className="hover:text-white text-xl font-medium">
 								Research & Publications
 							</a>
 						</li>
 						<li>
-							<a
-								href="#skills"
-								className="hover:text-white text-xl font-medium"
-							>
+							<a href="" className="hover:text-white text-xl font-medium">
 								Teaching
 							</a>
 						</li>
@@ -95,12 +89,12 @@ const Navbar = () => {
 						</a>
 					</li>
 					<li>
-						<a href="#aboutMe" className="hover:text-white text-xl">
+						<a href="" className="hover:text-white text-xl">
 							Research & Publications
 						</a>
 					</li>
 					<li>
-						<a href="#skills" className="hover:text-white text-xl">
+						<a href="" className="hover:text-white text-xl">
 							Teaching
 						</a>
 					</li>
