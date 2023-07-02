@@ -12,7 +12,7 @@ const Navbar = () => {
 	};
 
 	return (
-		<nav className="fixed z-10 w-full px-6 py-2 text-lg tracking-wide bg-gray-950 text-gray-400">
+		<nav className="fixed z-10 w-full px-6 py-2 text-lg bg-gray-950 text-gray-400">
 			<div className="flex justify-between items-center">
 				<a
 					href="https://www.linkedin.com/in/arpana-mishra-181b6a146/"
@@ -22,35 +22,44 @@ const Navbar = () => {
 				</a>
 
 				<div className="hidden md:block">
-					<ul className="flex align-center gap-8">
+					<ul className="flex align-center gap-5">
 						<li>
-							<a
-								href="#banner"
-								className="hover:text-white text-xl font-medium"
-							>
+							<a href="#banner" className="hover:text-white text-l">
 								Home
 							</a>
 						</li>
 						<li>
-							<a href="" className="hover:text-white text-xl font-medium">
-								Research & Publications
+							<a href="" className="hover:text-white text-l">
+								Publications
 							</a>
 						</li>
 						<li>
-							<a href="" className="hover:text-white text-xl font-medium">
+							<a href="" className="hover:text-white text-l">
 								Teaching
 							</a>
 						</li>
 						<li>
-							<a href="#links" className="hover:text-white text-xl font-medium">
+							<a href="#links" className="hover:text-white text-l">
 								Important Links
 							</a>
 						</li>
 						<li>
-							<a
-								href="#contact"
-								className="hover:text-white text-xl font-medium"
-							>
+							<a href="#links" className="hover:text-white text-l">
+								Talks
+							</a>
+						</li>
+						<li>
+							<a href="#links" className="hover:text-white text-l">
+								Conferences
+							</a>
+						</li>
+						<li>
+							<a href="#links" className="hover:text-white text-l">
+								About Me
+							</a>
+						</li>
+						<li>
+							<a href="#contact" className="hover:text-white text-l">
 								Contact
 							</a>
 						</li>
@@ -101,6 +110,21 @@ const Navbar = () => {
 					<li>
 						<a href="#links" className="hover:text-white text-xl">
 							Important Links
+						</a>
+					</li>
+					<li>
+						<a href="#links" className="hover:text-white text-xl">
+							Talks
+						</a>
+					</li>
+					<li>
+						<a href="#links" className="hover:text-white text-xl">
+							conferences
+						</a>
+					</li>
+					<li>
+						<a href="#links" className="hover:text-white text-xl">
+							About Me
 						</a>
 					</li>
 					<li>
