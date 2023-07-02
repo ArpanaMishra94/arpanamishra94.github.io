@@ -1,12 +1,9 @@
-import profileImg from "../public/Img/profileImg.jpg";
-
 const data = {
 	name: "Mohit Baghel",
 	title: "Assistant Professor",
 	introduction: `Presently, I am an Assistant Professor at the Department of
     Mathematics, Indian Institute of Technology, Bombay. I received my PhD
     from Indian Statistical Institute in May, 2017.`,
-	profileImg,
 	aboutMe: [
 		{
 			paragraph: `I am an Assistant Professor at the Department of Mathematics, Indian

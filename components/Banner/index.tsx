@@ -1,5 +1,5 @@
-import Image from "next/image";
-// import { introduction } from "../editData/Introduction";
+/* eslint-disable @next/next/no-img-element */
+// import Image from "next/image";
 import data from "../data";
 
 const Banner = () => {
@@ -9,9 +9,9 @@ const Banner = () => {
 			className="wrapper flex flex-col md:flex-row items-center gap-10"
 		>
 			<div className="w-44 h-44">
-				<Image
+				<img
 					className="w-full h-full rounded-full border-[1px] border-white-700 p-2 object-cover"
-					src={data.profileImg}
+					src="/Img/profileImg.jpg"
 					alt="profileImg"
 				/>
 			</div>
