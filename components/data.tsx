@@ -21,6 +21,28 @@ const data = {
             Processes in random environments, Robust statistics.`,
 		},
 	],
+	preprints: [
+		{
+			content:
+				"(with Zbigniew Palmowski) (2021) Extremes in branching random walk in random environment with regularly varying displacements.",
+			link: "https://arxiv.org/abs/2101.05369",
+			linkText: " ArXiv link.",
+		},
+		{
+			content:
+				"(with Zbigniew Palmowski) (2021) Extremes in branching random walk in random environment with regularly varying displacements.",
+			link: "https://arxiv.org/abs/2101.05369",
+			linkText: " ArXiv link.",
+		},
+	],
+	articles: [
+		{
+			content:
+				"(with Zbigniew Palmowski and Bert Zwart)(2021) Persistence of heavy-tailed sample averages: principle of infinitely many big jumps.",
+			linkContent: "",
+			link: "",
+		},
+	],
 };
 
 export default data;

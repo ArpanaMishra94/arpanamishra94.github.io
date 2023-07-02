@@ -29,12 +29,12 @@ const Navbar = () => {
 							</a>
 						</li>
 						<li>
-							<a href="" className="hover:text-white text-l">
-								Publications
+							<a href="#publications" className="hover:text-white text-l">
+								Research & Publications
 							</a>
 						</li>
 						<li>
-							<a href="" className="hover:text-white text-l">
+							<a href="#teachings" className="hover:text-white text-l">
 								Teaching
 							</a>
 						</li>
@@ -54,7 +54,7 @@ const Navbar = () => {
 							</a>
 						</li>
 						<li>
-							<a href="#links" className="hover:text-white text-l">
+							<a href="#aboutMe" className="hover:text-white text-l">
 								About Me
 							</a>
 						</li>
@@ -98,12 +98,12 @@ const Navbar = () => {
 						</a>
 					</li>
 					<li>
-						<a href="" className="hover:text-white text-xl">
+						<a href="#publications" className="hover:text-white text-xl">
 							Research & Publications
 						</a>
 					</li>
 					<li>
-						<a href="" className="hover:text-white text-xl">
+						<a href="#teachings" className="hover:text-white text-xl">
 							Teaching
 						</a>
 					</li>
@@ -123,7 +123,7 @@ const Navbar = () => {
 						</a>
 					</li>
 					<li>
-						<a href="#links" className="hover:text-white text-xl">
+						<a href="#aboutMe" className="hover:text-white text-xl">
 							About Me
 						</a>
 					</li>

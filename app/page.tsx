@@ -1,8 +1,8 @@
 import Banner from "@/components/Banner";
 import Aboutme from "@/components/About";
-import Experience from "@/components/Experience";
+import Teaching from "@/components/Teaching";
 import Links from "@/components/Links";
-import Projects from "@/components/Projects";
+import Publications from "@/components/Publications";
 import Contact from "@/components/Contact";
 import Navbar from "@/components/Navbar";
 
@@ -13,9 +13,9 @@ export default function Home() {
 			<div className="max-w-screen-xl mx-auto lg:pt-10 px-4">
 				<Banner />
 				<Aboutme />
-				{/* <Experience /> */}
+				<Publications />
+				<Teaching />
 				<Links />
-				{/* <Projects /> */}
 				<Contact />
 			</div>
 		</main>
