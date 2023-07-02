@@ -1,7 +1,7 @@
 import profileImg from "../public/Img/profileImg.jpg";
 
 const data = {
-	name: "Mohit Kumar Baghel",
+	name: "Mohit Baghel",
 	title: "Assistant Professor",
 	introduction: `Presently, I am an Assistant Professor at the Department of
     Mathematics, Indian Institute of Technology, Bombay. I received my PhD
