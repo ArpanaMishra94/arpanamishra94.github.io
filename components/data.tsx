@@ -43,6 +43,40 @@ const data = {
 			link: "",
 		},
 	],
+	menu: [
+		{
+			text: "Home",
+			link: "#banner",
+		},
+		{
+			text: "Teaching",
+			link: "#teachings",
+		},
+		// {
+		// 	text: "Conferences",
+		// 	link: "#links",
+		// },
+		// {
+		// 	text: "Talks",
+		// 	link: "#links",
+		// },
+		{
+			text: "Research & Publications",
+			link: "#publications",
+		},
+		{
+			text: "Important Links",
+			link: "#links",
+		},
+		{
+			text: "About Me",
+			link: "#aboutMe",
+		},
+		{
+			text: "Contact",
+			link: "#contact",
+		},
+	],
 };
 
 export default data;
